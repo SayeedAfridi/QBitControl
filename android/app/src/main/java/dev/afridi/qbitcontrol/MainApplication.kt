@@ -1,4 +1,4 @@
-package com.qbitcontrol
+package dev.afridi.qbitcontrol
 
 import android.app.Application
 import com.facebook.react.PackageList

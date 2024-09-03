@@ -1,4 +1,4 @@
-package com.qbitcontrol
+package dev.afridi.qbitcontrol
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
